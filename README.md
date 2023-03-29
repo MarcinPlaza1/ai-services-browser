@@ -11,6 +11,7 @@ Introduced features:
 - Browse AI tools
 - Filter AI tools by category
 - Service search
+- Automatic search suggestions
 
 The API was created in Express.js
 
