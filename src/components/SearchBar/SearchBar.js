@@ -1,4 +1,3 @@
-// SearchBar.js
 import React, { useState } from 'react';
 import Autosuggest from 'react-autosuggest';
 import { Container, Input, SuggestionsContainer, Suggestion } from './SearchBarStyles';
