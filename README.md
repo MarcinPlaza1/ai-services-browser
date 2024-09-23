@@ -1,4 +1,4 @@
-# ai-services-browser
+# ai-services-application
 List of AI Services Application
 
 The application is used to browse available AI services/tools.
